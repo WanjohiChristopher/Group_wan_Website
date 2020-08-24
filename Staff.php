@@ -98,7 +98,7 @@ include ("header.php");
             <div class="col-lg-3 col-md-6">
                 <div class="team_item">
                     <div class="team_image">
-                        <img src="images/team_2.jpg" alt="https://unsplash.com/@stairhopper">
+                        <img src="images/KEN.jpg" alt="https://unsplash.com/@stairhopper">
                         <div class="team_overlay trans_400"></div>
                         <div class="team_social">
                             <ul class="d-flex flex-row align-items-center justify-content-between">
@@ -115,6 +115,31 @@ include ("header.php");
                     </div>
                     <div class="team_content text-center">
                         <div class="team_name">KENNEDY</div>
+                        <div class="team_title">MEMBER</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Team Item -->
+            <div class="col-lg-3 col-md-6">
+                <div class="team_item">
+                    <div class="team_image">
+                        <img src="images/DOUGLAS.jpg" alt="https://unsplash.com/@stairhopper">
+                        <div class="team_overlay trans_400"></div>
+                        <div class="team_social">
+                            <ul class="d-flex flex-row align-items-center justify-content-between">
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-chrome" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-database" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fa fa-" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="team_content text-center">
+                        <div class="team_name">DOUGLAS</div>
                         <div class="team_title">MEMBER</div>
                     </div>
                 </div>
@@ -187,7 +212,7 @@ include ("header.php");
             <div class="col-lg-3 col-md-6">
                 <div class="team_item">
                     <div class="team_image">
-                        <img src="images/team_1.jpg" alt="https://unsplash.com/@stairhopper">
+                        <img src="images/LENAH.jpg" alt="https://unsplash.com/@stairhopper">
                         <div class="team_overlay trans_400"></div>
                         <div class="team_social">
                             <ul class="d-flex flex-row align-items-center justify-content-between">
