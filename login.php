@@ -11,9 +11,11 @@ require"config.php";
 </head>
 <body style="background-color:#7f8c8d">
 <div id="body">
-    <center>
-        <img src="images/groupwan.jpg"class="photo"/>
-    </center>
+
+        <center><h1>LOGIN FORM</h1>
+            <img src="images/groupwan.jpg"class="photo"/>
+        </center>
+
     <form  class="myform" action="login.php"method="post">
         <label><b><b>Username</label><br>
         <input name="username" type="text"class="input"placeholder="Enter your name"autocomplete="off"required/><br>

@@ -10,7 +10,14 @@ include ("header.php");
 <hr>
 <hr>
 <hr>
-
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 
 <!-- Header Section end -->
 
@@ -83,6 +90,8 @@ include ("header.php");
                 <div class="sb-widget">
                     <h2 class="sb-title">Categories</h2>
                     <ul>
+                        <li><a href="#">How to approach a Girl ->tips</a></li>
+                        <li><a href="#">How to approach Boychild</a></li>
                         <li><a href="#">Loans</a></li>
                         <li><a href="#">Credit Cards</a></li>
                         <li><a href="#">Quick Loans</a></li>
@@ -92,11 +101,11 @@ include ("header.php");
                 <div class="sb-widget">
                     <h2 class="sb-title">Months/Year</h2>
                     <ul>
-                        <li><a href="#">April 2019</a></li>
-                        <li><a href="#">March 2019</a></li>
-                        <li><a href="#">February 2019</a></li>
-                        <li><a href="#">January 2019</a></li>
-                        <li><a href="#">December 2018</a></li>
+                        <li><a href="#">April 2020</a></li>
+                        <li><a href="#">March 2020</a></li>
+                        <li><a href="#">February 2020</a></li>
+                        <li><a href="#">January 2020</a></li>
+                        <li><a href="#">December 2020</a></li>
                     </ul>
                 </div>
                 <div class="sb-widget">

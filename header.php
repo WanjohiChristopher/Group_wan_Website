@@ -14,22 +14,24 @@
 <link rel="stylesheet" href="style.css"/>
 <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap-4.1.2/bootstrap.min.css">
+    <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+    <link href="plugins/video-js/video-js.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="styles/about.css">
+    <link rel="stylesheet" type="text/css" href="styles/about_responsive.css">
 </head>
 <header id="header">
-
-
-
-
-
 
                 <div class="menu-bar">
                     <ul class="success">
                         <nav class="navbar  fixed-top navbar navbar-expand-sm navbar-light bg-danger">
+                            <h3 class="px-1">
+                                <img src="images/groupwan.jpg"class="photo"/>Group_Wan
+                            </h3>
                             <a href="" class="navbar-brand ">
-                                <h3 class="px-5">
-                                    <img src="images/groupwan.jpg"class="photo"/>Group_Wan
-                                </h3>
-
 
 
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
@@ -38,7 +40,8 @@
                                         aria-label="Toggle navigation">
                                     <span class="navbar-toggler=icon"></span>
                                 </button>
-                        <li class=""><a href="home.php"><i class="fas fa-home"></i> HOME</a></li>
+
+                        <li ><a href="home.php"><i class="fas fa-home"></i> HOME</a></li>
                         <li><a href="About.php"><i class="fas fa-database"></i>ABOUT US</a>
                         </li>
                         <li><a href="Staff.php"><i class="fas fa-user"></i>STAFF MEMBERS</a>
@@ -48,19 +51,15 @@
                         </li>
                                 <li><a href="news.php"><i class="fas fa-newspaper"></i>NEWS $ ANNOUNCEMENTS</a>
                                 </li>
+
+                                <li><a href="modal.php"><i class="fas fa-user"></i>ACCOUNT</a>
+                                </li>
+
+
+
+                    </a>
+                    </nav>
                     </ul>
                 </div>
 
-
-       <!-- <ul class="nav navbar-nav">
-            <li class="active"><a href="home.php" class="bg-white"><i class="fas fa-home"></i>Home</a></li><br>
-            <li><a href="About.php" class="bg-white"><i class="fas fa-check-square"></i>About Us</a></li>
-            <li><a href="Staff.php" class="bg-white"><i class="fas fa-facebook-messenger"></i>Staff</a></li>
-
-            <li><a href="projects.php" class="bg-white"><i class="fas fa-user"></i>Projects</a></li>
-            <!--<li><a href="modal.php" class="bg-dark"><i class="fas fa-user"></i>Account</a></li> -->
-
-        </ul>
-        </a>
-    </nav>
 </header>

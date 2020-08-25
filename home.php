@@ -2,9 +2,7 @@
 <?php
     include ("header.php");
     ?>
-<hr>
-<hr>
-<hr>
+
 
 <div class="cool">
 <section class="hero-section">

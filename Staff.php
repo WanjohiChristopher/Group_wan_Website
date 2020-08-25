@@ -46,7 +46,7 @@ include ("header.php");
             <div class="col-lg-3 col-md-6">
                 <div class="team_item">
                     <div class="team_image">
-                        <img src="images/team_4.jpg" alt="https://unsplash.com/@stairhopper">
+                        <img src="images/team_2.jpg" alt="https://unsplash.com/@stairhopper">
                         <!--overlay over image -->
                         <div class="team_overlay trans_400"></div>
                         <div class="team_social">
